@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="iPhoneSafeArea.MainPage">
+
+    <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <!-- Place new controls here -->
+        <Label Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vitae erat id neque fermentum ultrices ut nec risus. Donec eleifend eros risus, tempus malesuada ipsum maximus et. Sed aliquam nisl orci, in consequat orci scelerisque vitae. Aliquam feugiat nec dui non posuere. Mauris sit amet lacus felis. Nulla ac velit at ex elementum dapibus in nec augue. Aliquam commodo diam sit amet velit mattis dictum. Sed sed cursus turpis. Proin et consequat turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque molestie, purus a dignissim facilisis, lectus lorem blandit lacus, venenatis vehicula velit risus quis augue. Ut porttitor imperdiet purus, et mattis orci luctus vel. Pellentesque ultricies, ligula nec vestibulum blandit, tortor erat sodales justo, nec ultricies dolor metus eu ex. Nulla augue dui, commodo et nulla non, dignissim scelerisque nulla.
+
+Sed in felis finibus, bibendum odio ut, eleifend enim. In molestie nisl non justo bibendum, ut lacinia sem auctor. Vivamus vehicula mi at tortor euismod luctus vitae vel arcu. Quisque commodo est et lacus volutpat lobortis. Integer porta augue ac semper eleifend. Cras justo enim, posuere quis odio nec, hendrerit maximus metus. Curabitur vel pellentesque urna. Etiam consectetur ante dapibus velit suscipit gravida. Pellentesque rutrum cursus purus, ac bibendum leo dapibus id. Suspendisse dapibus lacinia mi at faucibus. Aliquam ac ipsum ipsum. Nam magna diam, cursus eu tristique ut, pretium non justo. Mauris dictum lectus vel velit fringilla commodo. Vivamus auctor porttitor neque, tincidunt laoreet augue convallis at."               
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand" />
+    </StackLayout>
+
+</ContentPage>
